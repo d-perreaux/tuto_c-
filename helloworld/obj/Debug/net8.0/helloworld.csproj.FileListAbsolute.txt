@@ -1,0 +1,14 @@
+C:\Code\c_sharp\tuto_dotnet\helloworld\bin\Debug\net8.0\helloworld.exe
+C:\Code\c_sharp\tuto_dotnet\helloworld\bin\Debug\net8.0\helloworld.deps.json
+C:\Code\c_sharp\tuto_dotnet\helloworld\bin\Debug\net8.0\helloworld.runtimeconfig.json
+C:\Code\c_sharp\tuto_dotnet\helloworld\bin\Debug\net8.0\helloworld.dll
+C:\Code\c_sharp\tuto_dotnet\helloworld\bin\Debug\net8.0\helloworld.pdb
+C:\Code\c_sharp\tuto_dotnet\helloworld\obj\Debug\net8.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\c_sharp\tuto_dotnet\helloworld\obj\Debug\net8.0\helloworld.AssemblyInfoInputs.cache
+C:\Code\c_sharp\tuto_dotnet\helloworld\obj\Debug\net8.0\helloworld.AssemblyInfo.cs
+C:\Code\c_sharp\tuto_dotnet\helloworld\obj\Debug\net8.0\helloworld.csproj.CoreCompileInputs.cache
+C:\Code\c_sharp\tuto_dotnet\helloworld\obj\Debug\net8.0\helloworld.dll
+C:\Code\c_sharp\tuto_dotnet\helloworld\obj\Debug\net8.0\refint\helloworld.dll
+C:\Code\c_sharp\tuto_dotnet\helloworld\obj\Debug\net8.0\helloworld.pdb
+C:\Code\c_sharp\tuto_dotnet\helloworld\obj\Debug\net8.0\helloworld.genruntimeconfig.cache
+C:\Code\c_sharp\tuto_dotnet\helloworld\obj\Debug\net8.0\ref\helloworld.dll

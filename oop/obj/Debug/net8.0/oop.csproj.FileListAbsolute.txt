@@ -1,0 +1,14 @@
+C:\Code\c_sharp\tuto_dotnet\oop\obj\Debug\net8.0\oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\c_sharp\tuto_dotnet\oop\obj\Debug\net8.0\oop.AssemblyInfoInputs.cache
+C:\Code\c_sharp\tuto_dotnet\oop\obj\Debug\net8.0\oop.AssemblyInfo.cs
+C:\Code\c_sharp\tuto_dotnet\oop\obj\Debug\net8.0\oop.csproj.CoreCompileInputs.cache
+C:\Code\c_sharp\tuto_dotnet\oop\bin\Debug\net8.0\oop.exe
+C:\Code\c_sharp\tuto_dotnet\oop\bin\Debug\net8.0\oop.deps.json
+C:\Code\c_sharp\tuto_dotnet\oop\bin\Debug\net8.0\oop.runtimeconfig.json
+C:\Code\c_sharp\tuto_dotnet\oop\bin\Debug\net8.0\oop.dll
+C:\Code\c_sharp\tuto_dotnet\oop\bin\Debug\net8.0\oop.pdb
+C:\Code\c_sharp\tuto_dotnet\oop\obj\Debug\net8.0\oop.dll
+C:\Code\c_sharp\tuto_dotnet\oop\obj\Debug\net8.0\refint\oop.dll
+C:\Code\c_sharp\tuto_dotnet\oop\obj\Debug\net8.0\oop.pdb
+C:\Code\c_sharp\tuto_dotnet\oop\obj\Debug\net8.0\oop.genruntimeconfig.cache
+C:\Code\c_sharp\tuto_dotnet\oop\obj\Debug\net8.0\ref\oop.dll
